@@ -5,7 +5,7 @@
 
 body{
     text-align: center;
-    padding-top: 650px;
+    padding-top: 800px;
 }
 #Welcome{
     position: absolute;
@@ -41,6 +41,10 @@ padding-left: 10px;
 font-family: 'Mochiy Pop P One', sans-serif;
 cursor: pointer;
 }
+.links:hover{
+    background-color:#e82727;
+}
+
 
 
 
